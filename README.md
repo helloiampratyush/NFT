@@ -19,7 +19,10 @@ ________________________________________________________________________________
 random words and then after we have choosen three nft based on rarety logic we have minted that nft which we have got from randomness logic*
 ----------------------------------------------------------------------------------------------------------------------------------------
  
-![Alt Text](https://ipfs.io/ipfs/QmSsYRx3LpDAb1GZQm7zZ1AuHZjfbPkD6J7s9r41xu1mf8?filename=pug.png)  ![Alt Text](https://github.com/helloiampratyush/NFT/blob/main/images/randomNft/st-bernard.png)
-                                                                                
---                  ![Alt Text]()
+   ![Alt Text](https://ipfs.io/ipfs/QmSsYRx3LpDAb1GZQm7zZ1AuHZjfbPkD6J7s9r41xu1mf8?filename=pug.png)  ![Alt Text](https://github.com/helloiampratyush/NFT/blob/main/images/randomNft/st-bernard.png)
+                                                       
+   ![Alt Text](https://github.com/helloiampratyush/NFT/blob/main/images/randomNft/shiba-inu.png) 
+
+
+
 
