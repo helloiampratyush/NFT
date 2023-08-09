@@ -31,10 +31,10 @@ Here we have stored nft on chain thats cost highest gas cost but if we use svg(s
 we have manipulated the logic with the hlp of chainlink aggregator that if ETH/USD price increases to some specific price then we will get other nft if 
 price remains below to that spcefic price
 
-  ![Alt Text]()  
+  ![Alt Text](https://github.com/helloiampratyush/NFT/blob/main/images/dynamicNft/frown.svg)  
 
 
- ![Alt Text](https://github.com/helloiampratyush/NFT/blob/main/images/randomNft/st-bernard.png)
+ ![Alt Text]()
 
    
 
