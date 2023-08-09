@@ -41,6 +41,10 @@ price remains below to that spcefic price
    ### we have used solidity code and hardhat frameWork
 
    you can clone this repositry by 
+
+   ```bash
+git clone 
+```
              
 
    
