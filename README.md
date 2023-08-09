@@ -31,10 +31,21 @@ Here we have stored nft on chain thats cost highest gas cost but if we use svg(s
 we have manipulated the logic with the hlp of chainlink aggregator that if ETH/USD price increases to some specific price then we will get other nft if 
 price remains below to that spcefic price
 
-  ![Alt Text](https://github.com/helloiampratyush/NFT/blob/main/images/dynamicNft/frown.svg)  
+  
+  <img src="https://github.com/helloiampratyush/NFT/blob/main/images/dynamicNft/happy.svg " alt="Alt Text" width="300" height="300">      <img src="https://github.com/helloiampratyush/NFT/blob/main/images/dynamicNft/frown.svg" alt="Alt Text" width="300" height="300">
 
 
- ![Alt Text]()
+  ---------------------------------------------------------------------------------------------------
+  frown if prices goes below to the specified price happy if price go above sheduled price
+
+   ### we have used solidity code and hardhat frameWork
+
+   you can clone this repositry by 
+             
+
+   
+
+
 
    
 
