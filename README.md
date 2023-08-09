@@ -43,10 +43,10 @@ price remains below to that spcefic price
    you can clone this repositry by 
 
    ```bash
-git clone 
+git clone https://github.com/helloiampratyush/NFT.git
 ```
              
-
+ ## 🙏 Thank you for going throgh
    
 
 
